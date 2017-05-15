@@ -1,0 +1,6 @@
+com\sortnumbers\model\UserInput.class
+com\sortnumbers\model\SortResult.class
+com\sortnumbers\service\SortService.class
+com\sortnumbers\controller\SortController.class
+com\sortnumbers\controller\WebController.class
+com\sortnumbers\SortApplication.class
