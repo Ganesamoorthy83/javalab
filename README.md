@@ -18,7 +18,7 @@
   
 # Setup and Run
    - Download and unzip the source repository for this guide, or clone it using Git: git clone https://github.com/Ganesamoorthy83/javalab.git
-   - To setup application in STS environment please download & refer document from git "java/Sort Application Setup Guide.docx" which contains all the screenshots of below steps. Otherwise follow the below steps.
+   - To setup application in STS environment please download & refer document from git "Sort Application Setup Guide.docx" which contains all the screenshots of below steps. Otherwise follow the below steps.
    - Open Spring Tool Suite.
    - Go to File -> Import
    - Select Existing Maven Projects into Workspace and click on Next button.
